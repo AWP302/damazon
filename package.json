@@ -1,0 +1,16 @@
+{
+  "name": "damazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "damazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Pollock",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0",
+    "node": "^10.5.0"
+  }
+}
